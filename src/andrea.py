@@ -1,2 +1,2 @@
 def hi():
-    return "hi from Andrea"
+    return "hi from Andrea ver 0.0.2"
